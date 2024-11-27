@@ -1,5 +1,6 @@
 # Udemy Course Data Analysis 📊
-![Udemy Analysis]([https://your-website.com/images/analysis.png](https://github.com/zaed-nusirat0/Exploring-Udemy-A-Complete-Data-Analysis-/blob/main/Analyzing%20Trends%20in%20Udemy%20Courses/image.png))
+![Udemy Analysis](![image](https://github.com/user-attachments/assets/a9d7eb1d-00e5-4f56-904d-d0de08035fb0)
+)
 
 
 #### 🎯 Objectives
