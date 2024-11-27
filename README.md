@@ -1,8 +1,4 @@
 # Udemy Course Data Analysis 📊
-![Udemy Analysis](![image](https://github.com/user-attachments/assets/a9d7eb1d-00e5-4f56-904d-d0de08035fb0)
-)
-
-
 #### 🎯 Objectives
 #### The primary aim of this project is to analyze Udemy course data to uncover trends, patterns, and actionable insights for both course creators and platform administrators. The objectives include:
 
