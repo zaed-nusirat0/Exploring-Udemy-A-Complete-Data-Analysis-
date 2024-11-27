@@ -1,4 +1,4 @@
-Udemy Course Data Analysis 📊
+## Udemy Course Data Analysis 📊
 🎯 Objectives
 The primary aim of this project is to analyze Udemy course data to uncover trends, patterns, and actionable insights for both course creators and platform administrators. The objectives include:
 
